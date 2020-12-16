@@ -1,0 +1,77 @@
+PODS:
+  - Alamofire (5.2.2)
+  - Kingfisher (5.0.1)
+  - KRActivityIndicatorView (3.0.7)
+  - KRProgressHUD (3.4.7):
+    - KRActivityIndicatorView (= 3.0.7)
+  - MXParallaxHeader (1.1.0)
+  - NCMB (3.1.0)
+  - NYXImagesKit (2.3)
+  - Pageboy (3.6.2)
+  - PKHUD (5.3.0)
+  - SVProgressHUD (2.2.5)
+  - SwiftDate (6.1.0)
+  - SwiftyJSON (5.0.0)
+  - Tabman (2.9.1):
+    - Pageboy (~> 3.6.0)
+  - "UITextView+Placeholder (1.4.0)"
+
+DEPENDENCIES:
+  - Alamofire
+  - Kingfisher (~> 5.0.1)
+  - KRProgressHUD
+  - MXParallaxHeader
+  - NCMB (from `https://github.com/NIFTYCloud-mbaas/ncmb_ios.git`, branch `develop`)
+  - NYXImagesKit
+  - PKHUD
+  - SVProgressHUD
+  - SwiftDate
+  - SwiftyJSON
+  - Tabman
+  - "UITextView+Placeholder"
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - Kingfisher
+    - KRActivityIndicatorView
+    - KRProgressHUD
+    - MXParallaxHeader
+    - NYXImagesKit
+    - Pageboy
+    - PKHUD
+    - SVProgressHUD
+    - SwiftDate
+    - SwiftyJSON
+    - Tabman
+    - "UITextView+Placeholder"
+
+EXTERNAL SOURCES:
+  NCMB:
+    :branch: develop
+    :git: https://github.com/NIFTYCloud-mbaas/ncmb_ios.git
+
+CHECKOUT OPTIONS:
+  NCMB:
+    :commit: c9d038fb4ec82dcecedb4ce15c38b869cbebebf4
+    :git: https://github.com/NIFTYCloud-mbaas/ncmb_ios.git
+
+SPEC CHECKSUMS:
+  Alamofire: 814429acc853c6c54ff123fc3d2ef66803823ce0
+  Kingfisher: 4f771421b9208185217550528a06fd48756cb7c2
+  KRActivityIndicatorView: ad69e89c4ce40c986cf580595be4829dcad0e35a
+  KRProgressHUD: a248f0bc6c9c2aed40a37b76e03ffecc7f85c887
+  MXParallaxHeader: de3c867e10ba46e8f6e20c8ee1f2a910372b3b94
+  NCMB: c308972109137bf523ec1830bac16de6a31c25f4
+  NYXImagesKit: 8163e3335a40eaa173ca5bbbf81fafb57d3947eb
+  Pageboy: cf121b9dd48c63f3f281b2a9ec93d02e0f23879b
+  PKHUD: 98f3e4bc904b9c916f1c5bb6d765365b5357291b
+  SVProgressHUD: 1428aafac632c1f86f62aa4243ec12008d7a51d6
+  SwiftDate: fa2bb3962056bb44047b4b85a30044e5eae30b03
+  SwiftyJSON: 36413e04c44ee145039d332b4f4e2d3e8d6c4db7
+  Tabman: 085d89c65be9e883629bdaf5b1453a6397e57846
+  "UITextView+Placeholder": d7b0c400921f66523f3a85d74f774512e14f6502
+
+PODFILE CHECKSUM: cc2887dc25ff38262e12a11b70dc2d696c206d44
+
+COCOAPODS: 1.9.1
